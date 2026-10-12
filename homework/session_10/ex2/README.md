@@ -31,4 +31,3 @@ Build image:
 
 ```bash
 docker build -t hw-backend:v1 .
-<img width="1186" height="416" alt="ex2_ss10" src="https://github.com/user-attachments/assets/6e9aefba-7563-4d95-962c-a7c0ac6c71d3" />
